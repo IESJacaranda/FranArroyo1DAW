@@ -1,0 +1,179 @@
+package dale;
+
+
+public class Ejercicio {
+	
+	public static final Double PI = 3.14;
+	
+
+	public static void main(String[] args) {
+				
+		// Variables
+		System.out.println(numeroSolucionesEcuacionSegundoGrado(0, 2, -2));
+		System.out.println(solucionSumaEcuacionSegundoGrado(0,2,-2));
+		// Inicio
+		
+				
+				
+	}
+	
+	public static int numeroSolucionesEcuacionSegundoGrado(int a, int b, int c) {
+		//dos soluciones: b² − 4ac > 0
+		//una soluciones:  b² − 4ac = 0
+		//no tiene soluciones reales b² − 4ac < 0
+		//el primer numero osea A , debe ser mayor que 0
+		int respuestas=0;
+		if (a==0) {
+			respuestas=-1;
+		}else if (Math.pow(b, 2)-(4*a*c)>0) {
+			respuestas=2;
+			
+		}else if (Math.pow(b, 2)-(4*a*c)==0){
+				respuestas=1;
+		}
+		else{
+				respuestas=0;
+		}
+		
+	return respuestas;
+	}
+	
+	public static Double solucionSumaEcuacionSegundoGrado(int a, int b, int c) {
+		double respuesta=-1000;
+		if (numeroSolucionesEcuacionSegundoGrado(a, b, c)==0) {
+			respuesta=-1000;
+		}else {
+			if (numeroSolucionesEcuacionSegundoGrado(a, b, c)==1) {
+				double solucion = (-b+Math.sqrt((b*b)-(4*a*c)))/(2*a);
+				respuesta=solucion;
+			}
+			if (numeroSolucionesEcuacionSegundoGrado(a, b, c)==2) {
+				double solucion = (-b+Math.sqrt((b*b)-(4*a*c)))/(2*a);
+				respuesta=solucion;
+				if (a==0) {
+					respuesta=-1000;
+				}
+			}
+		}
+		return respuesta;
+	}
+	
+	
+	
+	public static Double solucionRestaEcuacionSegundoGrado(int a, int b, int c) {
+		double respuesta=-1000;
+		if (numeroSolucionesEcuacionSegundoGrado(a, b, c)==0) {
+			respuesta=-1000;
+		}else {
+			if (numeroSolucionesEcuacionSegundoGrado(a, b, c)==1) {
+				double solucion = (-b-Math.sqrt((b*b)-(4*a*c)))/(2*a);
+				respuesta=solucion;
+			}
+			if (numeroSolucionesEcuacionSegundoGrado(a, b, c)==2) {
+				double solucion = (-b-Math.sqrt((b*b)-(4*a*c)))/(2*a);
+				respuesta=solucion;
+				if (a==0) {
+					respuesta=-1000;
+				}
+			}
+		}
+		return respuesta;
+	}	
+	
+	public static Double areaCirculo(Double r) {
+		double area;
+		area=PI*r*r;
+		return area;
+	}
+	
+	public static Double longitudCirculo(Double r) {
+		double longitud;
+		longitud=2*PI*r;
+		return longitud;
+	}
+	
+	public static boolean esMultiplo(int a, int b) {
+		boolean multiplo=false;
+		if (a%b==0 &&  b%a==0) {
+			multiplo=true;
+		}
+		return multiplo;
+	}
+	
+	public static int horaMayor(int hora1, int min1, int seg1, int hora2, int min2, int seg2) {
+			if (hora1>hora2) {
+			return 1;
+		}
+		if (hora2>hora1) {
+			return 2;
+		}
+		else {
+			if (hora1==hora2 && min1>min2) {
+				return 1;
+			}
+			if (hora1==hora2 && min1<min2) {
+				return 2;
+			}else {
+				if (hora1==hora2 && min1==min2 && seg1>seg2) {
+					return 1;
+				}
+				if (hora1==hora2 && min1==min2 && seg1<seg2) {
+					return 2;
+				}
+				if (hora1==hora2 && min1==min2 && seg1==seg2) {
+					return 0;
+				}
+
+			}
+		}
+		return -1000;
+	}
+		
+	
+	public static int segundosEntre(int hora1, int min1, int seg1, int hora2, int min2, int seg2) {
+	 int segundos1,segundos2,segundosentre=0;
+	 segundos1=(hora1*3600)+(min1*60)+(seg1);
+	 segundos2=(hora1*3600)+(min1*60)+(seg1);
+	 if (segundos1>segundos2) {
+		 segundosentre= segundos1-segundos2;
+	 }
+	 if (segundos1<segundos2) {
+		 segundosentre= segundos2-segundos1;
+	 }
+	 if (segundos1==segundos2) {
+		 segundosentre= segundos1;
+	 }
+	 return segundosentre;
+	}
+	
+	public static int maximoComunDivisor(int a, int b) {
+        while(a!=b) {
+            if(a>b) {
+            	 a=a-b;
+            }  
+            else {
+                b=b-a;
+            }
+        }
+    	return a;
+	}
+	public static int minimoComunMultiplo(int a, int b) {
+		int num;
+	    while (b!=0) {
+	        num=b;
+	        b=a%b; 
+	        a=num;
+	    }
+	    return a;
+	}
+	
+	public static String binario(int num) {
+		return null;
+		
+	}
+	
+	public static int decimal(String num) {
+		return 0;
+		
+	}
+}
