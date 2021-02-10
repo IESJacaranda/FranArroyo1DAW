@@ -1,7 +1,7 @@
 package complejos;
 
 public class Complejo {
-//Atributos necesarios
+//Atributos
 	private double real;
 	private double imaginaria;
 	private double i;
@@ -41,10 +41,23 @@ public void suma(Complejo i){
 		this.real-=i.getReal();
 		this.imaginaria-=i.getImaginaria();
 	}
+//
+	@Override
+	public boolean equals(Object obj) {
+		boolean sonIguales=false;
+		if(this==obj) {
+			sonIguales=true;
+		}
+		else if(obj!=null && obj instanceof Complejo){
+			if(((Complejo)obj).getImaginaria()==this.getImaginaria() && ((Complejo)obj).getReal()==this.getReal()){
+				sonIguales=true;	
+			}
+		}
+		return sonIguales;
+	}
 //Metodo toString
 @Override
 public String toString() {
 	return "("+real+","+imaginaria+")";
 	}
 }
-	

@@ -1,16 +1,18 @@
 package complejos;
-
+import java.util.Scanner;
 public class main {
-
+	static Scanner sc=new Scanner(System.in);
 	public static void main(String[] args) {
-		Complejo n1 = new Complejo(9,5);
-		Complejo n2 = new Complejo(7,8);
-		System.out.print(n1+"-"+n2+"=");
-		n1.suma(n2);
-		System.out.println(n1);
+		@SuppressWarnings("unused")
+		int eleccion;
+		Complejo numero1 = new Complejo(3,0);
+		Complejo numero2 = new Complejo(7,2);
+		System.out.print(numero1+"-"+numero2+"=");
+		numero1.suma(numero2);
+		System.out.println(numero1);
+		System.out.print(numero1+"+"+numero2+"=");
+		numero1.resta(numero2);
+		System.out.println(numero1);
 		
-		System.out.print(n1+"+"+n2+"=");
-		n1.resta(n2);
-		System.out.println(n1);
 	}
 }
