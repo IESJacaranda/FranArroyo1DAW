@@ -26,7 +26,7 @@ public class Ejercicio1 {
 		for (int i=0;i<ejercicio1.length;i++) {
 			for (int j=0;j<ejercicio2[i].length;j++) {
 				if (ejercicio2[i]==ejercicio2[j]) {
-					ejercicio2[i][j]=3;
+					ejercicio2[i][j]=1;
 				}
 				else {
 					ejercicio2[i][j]=5;
@@ -36,10 +36,10 @@ public class Ejercicio1 {
 			}
 			
 		}
-		for (int k = 0; k < ejercicio1.length; k++) {
+		for (int i = 0; i < ejercicio1.length; i++) {
 			System.out.println("\n");
 			for (int h = 0; h < ejercicio2.length; h++) {
-				System.out.print(ejercicio2[k][h]);
+				System.out.print(ejercicio2[i][h]);
 			}
 		}
 	}
