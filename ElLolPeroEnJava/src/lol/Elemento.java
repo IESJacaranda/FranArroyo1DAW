@@ -5,7 +5,7 @@ public class Elemento {
 
 	public Elemento(char simbolo) {
 		super();
-		this.simbolo = simbolo;
+		this.simbolo =simbolo;
 	}
 
 	@Override

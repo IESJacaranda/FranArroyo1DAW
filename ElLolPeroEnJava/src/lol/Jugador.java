@@ -10,7 +10,13 @@ public class Jugador extends Elemento {
 	private int gemas;
 	public Jugador(char simbolo) {
 		super(simbolo);
-		// TODO Auto-generated constructor stub
+		this.fuerza=fuerza;
+		this.fuerza=magia;
+		this.velocidad=velocidad;
+		this.col=col;
+		this.dinero=dinero;
+		this.pociones=pociones;
+		this.gemas=gemas;
 	}
 	public int getFuerza() {
 		return fuerza;
