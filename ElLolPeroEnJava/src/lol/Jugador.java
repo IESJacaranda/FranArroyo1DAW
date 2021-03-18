@@ -8,6 +8,18 @@ public class Jugador extends Elemento {
 	private int dinero;
 	private int pociones;
 	private int gemas;
+	
+	public Jugador(char simbolo, int fuerza, int magia, int velocidad, int col, int dinero, int pociones, int gemas) {
+		super(simbolo);
+		this.fuerza = fuerza;
+		this.magia = magia;
+		this.velocidad = velocidad;
+		this.col = col;
+		this.dinero = dinero;
+		this.pociones = pociones;
+		this.gemas = gemas;
+	}
+
 	public Jugador(char simbolo) {
 		super(simbolo);
 		this.fuerza=fuerza;
@@ -18,6 +30,7 @@ public class Jugador extends Elemento {
 		this.pociones=pociones;
 		this.gemas=gemas;
 	}
+	
 	public int getFuerza() {
 		return fuerza;
 	}

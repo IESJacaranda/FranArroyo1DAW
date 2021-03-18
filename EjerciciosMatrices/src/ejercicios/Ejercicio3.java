@@ -39,7 +39,7 @@ public class Ejercicio3 {
 			}
 		}
 	}
-    private static String VerMatrizConFormato(int[][] matriz){
+    public static String VerMatrizConFormato(int[][] matriz){
     	String matrizconformato="";
     	int z=0;
         for(int i=0;i<matriz.length;i++){
@@ -55,6 +55,28 @@ public class Ejercicio3 {
         }
         return matrizconformato;
     }
+    private static int[][] SumarMatriz(int[][] matriz1, int[][] matriz2){
+        int filas1 =matriz1.length;
+        int columnas1 = matriz1[0].length;
+        int filas2 =matriz2.length;
+        int columnas2 = matriz2[0].length;
+        int[][] resultado;
+        if(matriz1!=null && matriz2!=null && matriz1.length==matriz2.length && matriz1[0].length==matriz2[0].length) {
+        	
+        }
+        if(filas1 == filas2 && columnas1 == columnas2){
+            resultado = new int[filas1][columnas1];
+            for(int i=0;i<matriz1.length;i++){
+                for(int j=0;j<matriz1[0].length;j++){
+                    resultado[i][j]= matriz1[i][j] + matriz2[i][j];
+                }
+            }
+            return resultado;
+        } else {
+            return null;
+        }
+    }
+ 
 
 
 }
