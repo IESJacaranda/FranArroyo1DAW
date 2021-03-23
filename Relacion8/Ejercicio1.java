@@ -7,7 +7,6 @@ public class Ejercicio1 {
 	public static void main(String[] args) {
 		  int[] numeros = new int[10];
 		  System.out.println("Me introduces 10 numeros? xfa 7u7");
-		  
 		  for (int i = 0; i<numeros.length; i++) {
 			  numeros[i]=Integer.parseInt(sc.nextLine());
 		  }
