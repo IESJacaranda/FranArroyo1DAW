@@ -26,4 +26,12 @@ public class Ejercicio2 {
         }
         lista[0]=ultimo;
     }
+    public static void desplazaIzquierda(int[] lista){
+        int i,ultimo;
+        ultimo=lista[lista.length-1];
+        for(i=lista.length-1; i>0; i--){
+            lista[i]=lista[i-1];
+        }
+        lista[0]=ultimo;
+    }
 }
