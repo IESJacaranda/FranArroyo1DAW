@@ -1,17 +1,22 @@
 package ejercicio1;
 
-public class Cuenta extends Persona {
+public class Cuenta {
+	public Persona persona;
 	private String numcuenta;
 	private double dinero;
+
+
 	public Cuenta() {
 		super();
 	}
 
-	public Cuenta(String nombre, int edad, String dni,double dinero) {
-		super(nombre, edad, dni);
+	public Cuenta(String nombre, int edad, String dni, double dinero, String numcuenta,Persona persona) {
+		this.persona=persona;
 		this.numcuenta=numcuenta;
 		this.dinero=dinero;
+		
 	}
+
 	public String getNumcuenta() {
 		return numcuenta;
 	}
@@ -27,16 +32,33 @@ public class Cuenta extends Persona {
 	public void setDinero(double dinero) {
 		this.dinero = dinero;
 	}
+	public Persona getPersona() {
+		return persona;
+	}
+
+	public void setPersona(Persona persona) {
+		this.persona = persona;
+	}
 //	En esta ocasión los titulares de este tipo de cuenta 
 //	tienen que ser mayor de edad., por lotanto hay que crear 
 //	un método  esTitularValido()  que devuelve verdadero si el 
 //	titular esmayor de edad pero menor de 25 años y falso en caso contrario.
-	public Boolean esValidoParaJoven(int edad) {
+	public Boolean esTitularValido() {
 		boolean mayoredad=false;
-		if (edad>18 && edad<25) {
+		if (persona.getEdad()>18 && persona.getEdad()<25) {
 			mayoredad=true;
 		}
 		return mayoredad;
+	}
+	//Además la retirada de dinero sólo se podrá hacer si el
+	//titular es válido.
+	public double retirarDinero(double dinero,double cantidadaretirar) throws Exception {
+		if (esTitularValido()) {
+			this.dinero=this.dinero-cantidadaretirar;
+		}else {
+			throw new Exception("El titular no es valido");
+		}
+		return this.dinero-cantidadaretirar;
 	}
 	
 }

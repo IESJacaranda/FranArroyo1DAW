@@ -16,6 +16,10 @@ public class Velero extends Barco {
 	public void setMastiles(int mastiles) {
 		this.mastiles = mastiles;
 	}
+	@Override
+	public Double obtenerFactorMultiplicacion() {
+		return super.obtenerFactorMultiplicacion()+this.mastiles;
+	}
 
 	
 

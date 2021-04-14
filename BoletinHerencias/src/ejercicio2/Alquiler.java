@@ -7,13 +7,13 @@ import java.time.temporal.ChronoUnit;
 
 public class Alquiler {
 	
-	protected Cliente cliente;
-	protected Barco barco;
-	protected LocalDate fechaInicio;
-	protected LocalDate fechaFin;
-	protected String posicionAmarre;
-	protected final static int VALOR_FIJO = 20;
-	protected double precio;
+	private Cliente cliente;
+	private Barco barco;
+	private LocalDate fechaInicio;
+	private LocalDate fechaFin;
+	private String posicionAmarre;
+	public final static int VALOR_FIJO = 20;
+	private double precio;
 	
 	public Alquiler(Cliente cliente, Barco barco, LocalDate fechaInicio, LocalDate fechaFin, String posicionAmarre) {
 		this.cliente = cliente;
@@ -25,6 +25,7 @@ public class Alquiler {
 	}
 	
 	public Alquiler() {}
+	
 	
 	public double calcularAlquiler() {
 		int dias = (int) ChronoUnit.DAYS.between(this.fechaInicio, this.fechaFin.plusDays(1)); //plusDays(1) para incluir el último día

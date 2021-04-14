@@ -13,8 +13,7 @@ guardar una bonificación que estará expresada en tanto por ciento
 	un método  esTitularValido()  que devuelve verdadero si el 
 	titular esmayor de edad pero menor de 25 años y falso en caso 
 	contrario.
-	•Además la retirada de dinero sólo se podrá hacer si el
-	titular es válido.•El método mostrar() debe devolver el 
+•El método mostrar() debe devolver el 
 	mensaje de “Cuenta Joven” y la bonificación de lacuenta.*/
 public class Persona {
 	private String nombre;
