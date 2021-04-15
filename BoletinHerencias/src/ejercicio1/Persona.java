@@ -19,9 +19,8 @@ public class Persona {
 	private String nombre;
 	private int edad;
 	private String dni;
-	public Persona() {
-		super();
-	}
+
+	
 	public Persona(String nombre, int edad, String dni) {
 		super();
 		this.nombre = nombre;
