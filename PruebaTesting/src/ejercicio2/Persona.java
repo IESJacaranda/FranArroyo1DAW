@@ -229,5 +229,31 @@ public class Persona {
                 + "Peso: " + peso + " kg\n"
                 + "Altura: " + altura + " metros\n";
     }
+
+	public String getDNI() {
+		return DNI;
+	}
+
+
+
+	public String getNombre() {
+		return nombre;
+	}
+
+	public int getEdad() {
+		return edad;
+	}
+
+	public char getSexo() {
+		return sexo;
+	}
+
+	public double getPeso() {
+		return peso;
+	}
+
+	public double getAltura() {
+		return altura;
+	}
  
 }
