@@ -43,22 +43,13 @@ public class Cuenta {
 //	tienen que ser mayor de edad., por lotanto hay que crear 
 //	un método  esTitularValido()  que devuelve verdadero si el 
 //	titular esmayor de edad pero menor de 25 años y falso en caso contrario.
-	public Boolean esTitularValido() {
-		boolean mayoredad=false;
-		if (persona.getEdad()>18 && persona.getEdad()<25) {
-			mayoredad=true;
-		}
-		return mayoredad;
-	}
+
 	//Además la retirada de dinero sólo se podrá hacer si el
 	//titular es válido.
 	public double retirarDinero(double dinero,double cantidadaretirar) throws Exception {
-		if (esTitularValido()) {
 			this.dinero=this.dinero-cantidadaretirar;
-		}else {
-			throw new Exception("El titular no es valido");
-		}
-		return this.dinero-cantidadaretirar;
+
+			return this.dinero-cantidadaretirar;
 	}
 	
 }
