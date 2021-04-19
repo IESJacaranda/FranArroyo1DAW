@@ -1,5 +1,6 @@
 package ejercicio2;
 
+import static org.junit.Assert.assertEquals;
 import static org.junit.jupiter.api.Assertions.*;
 
 import org.junit.jupiter.api.BeforeEach;
@@ -65,7 +66,7 @@ class PersonaTest {
 	}
 	@Test
 	void testComprobarSexo() {
-		assertEquals(2, p2.setSexo('H'));
+		assertEquals('H', p2.setSexo('H'));
 	}
 
 }
