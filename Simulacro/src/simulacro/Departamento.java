@@ -63,8 +63,5 @@ public class Departamento {
 //			sueldos+=o.getSueldo();
 //		}
 		return sueldos;
-	}
-	
-	
-	
+	}	
 }
