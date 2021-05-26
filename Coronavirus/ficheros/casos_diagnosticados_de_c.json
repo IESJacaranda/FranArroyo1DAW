@@ -1,0 +1,2382 @@
+﻿{
+    "Id": "a3e214f9-bab7-4231-97b8-edbe9d0c85a3",
+    "Url": "www.epdata.es/casos-acumulados-coronavirus-espana/a3e214f9-bab7-4231-97b8-edbe9d0c85a3",
+    "Titulo": "Casos diagnosticados de coronavirus en España desde que comenzó la epidemia",
+    "Subtitulo": "",
+    "Datos": {
+        "Metricas": [
+            {
+                "Id": 0,
+                "Nombre": "Coronavirus a nivel diario - Número de casos en lo que va de año para España como país",
+                "SonDatosNumericos": true,
+                "Fuente": "Ministerio de Sanidad, Servicios Sociales e Igualdad,Universidad Johns Hopkins",
+                "Clasificacion": null,
+                "Unidad": "Número de casos en lo que va de año",
+                "Escala": "Unidades",
+                "EscalaFactorPotencia10": 0,
+                "Datos": [
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Día 27 de julio",
+                        "Parametro": "Día 27 de julio",
+                        "Valor": 278782,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Día 28 de julio",
+                        "Parametro": "Día 28 de julio",
+                        "Valor": 280610,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Día 29 de julio",
+                        "Parametro": "Día 29 de julio",
+                        "Valor": 282641,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Día 30 de julio",
+                        "Parametro": "Día 30 de julio",
+                        "Valor": 285430,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Día 31 de julio",
+                        "Parametro": "Día 31 de julio",
+                        "Valor": 288522,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Día 1 de agosto",
+                        "Parametro": "Día 1 de agosto",
+                        "Valor": 288522,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Día 2 de agosto",
+                        "Parametro": "Día 2 de agosto",
+                        "Valor": 288522,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Día 3 de agosto",
+                        "Parametro": "Día 3 de agosto",
+                        "Valor": 297054,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Día 4 de agosto",
+                        "Parametro": "Día 4 de agosto",
+                        "Valor": 302814,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Día 5 de agosto",
+                        "Parametro": "Día 5 de agosto",
+                        "Valor": 305767,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Día 6 de agosto",
+                        "Parametro": "Día 6 de agosto",
+                        "Valor": 309855,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Día 7 de agosto",
+                        "Parametro": "Día 7 de agosto",
+                        "Valor": 314362,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Día 8 de agosto",
+                        "Parametro": "Día 8 de agosto",
+                        "Valor": 314362,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Día 9 de agosto",
+                        "Parametro": "Día 9 de agosto",
+                        "Valor": 314362,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Día 10 de agosto",
+                        "Parametro": "Día 10 de agosto",
+                        "Valor": 322980,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Día 11 de agosto",
+                        "Parametro": "Día 11 de agosto",
+                        "Valor": 326612,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Día 12 de agosto",
+                        "Parametro": "Día 12 de agosto",
+                        "Valor": 329784,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Día 13 de agosto",
+                        "Parametro": "Día 13 de agosto",
+                        "Valor": 337334,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Día 14 de agosto",
+                        "Parametro": "Día 14 de agosto",
+                        "Valor": 342813,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Día 15 de agosto",
+                        "Parametro": "Día 15 de agosto",
+                        "Valor": 342813,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Día 16 de agosto",
+                        "Parametro": "Día 16 de agosto",
+                        "Valor": 342813,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Día 17 de agosto",
+                        "Parametro": "Día 17 de agosto",
+                        "Valor": 359082,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Día 18 de agosto",
+                        "Parametro": "Día 18 de agosto",
+                        "Valor": 364196,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Día 19 de agosto",
+                        "Parametro": "Día 19 de agosto",
+                        "Valor": 370867,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Día 20 de agosto",
+                        "Parametro": "Día 20 de agosto",
+                        "Valor": 377906,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Día 21 de agosto",
+                        "Parametro": "Día 21 de agosto",
+                        "Valor": 386054,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Día 22 de agosto",
+                        "Parametro": "Día 22 de agosto",
+                        "Valor": 386054,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Día 23 de agosto",
+                        "Parametro": "Día 23 de agosto",
+                        "Valor": 386054,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Día 24 de agosto",
+                        "Parametro": "Día 24 de agosto",
+                        "Valor": 405436,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Día 25 de agosto",
+                        "Parametro": "Día 25 de agosto",
+                        "Valor": 412553,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Día 26 de agosto",
+                        "Parametro": "Día 26 de agosto",
+                        "Valor": 419849,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Día 27 de agosto",
+                        "Parametro": "Día 27 de agosto",
+                        "Valor": 429507,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Día 28 de agosto",
+                        "Parametro": "Día 28 de agosto",
+                        "Valor": 439286,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Día 29 de agosto",
+                        "Parametro": "Día 29 de agosto",
+                        "Valor": 439286,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Día 30 de agosto",
+                        "Parametro": "Día 30 de agosto",
+                        "Valor": 439286,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Día 31 de agosto",
+                        "Parametro": "Día 31 de agosto",
+                        "Valor": 462858,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Día 1 de septiembre",
+                        "Parametro": "Día 1 de septiembre",
+                        "Valor": 470973,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Día 2 de septiembre",
+                        "Parametro": "Día 2 de septiembre",
+                        "Valor": 479554,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Día 3 de septiembre",
+                        "Parametro": "Día 3 de septiembre",
+                        "Valor": 488513,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Día 4 de septiembre",
+                        "Parametro": "Día 4 de septiembre",
+                        "Valor": 498989,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Día 5 de septiembre",
+                        "Parametro": "Día 5 de septiembre",
+                        "Valor": 498989,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Día 6 de septiembre",
+                        "Parametro": "Día 6 de septiembre",
+                        "Valor": 498989,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Día 7 de septiembre",
+                        "Parametro": "Día 7 de septiembre",
+                        "Valor": 525549,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Día 8 de septiembre",
+                        "Parametro": "Día 8 de septiembre",
+                        "Valor": 534513,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Día 9 de septiembre",
+                        "Parametro": "Día 9 de septiembre",
+                        "Valor": 543379,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Día 10 de septiembre",
+                        "Parametro": "Día 10 de septiembre",
+                        "Valor": 554143,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Día 11 de septiembre",
+                        "Parametro": "Día 11 de septiembre",
+                        "Valor": 566326,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Día 12 de septiembre",
+                        "Parametro": "Día 12 de septiembre",
+                        "Valor": 566326,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Día 13 de septiembre",
+                        "Parametro": "Día 13 de septiembre",
+                        "Valor": 566326,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Día 14 de septiembre",
+                        "Parametro": "Día 14 de septiembre",
+                        "Valor": 593730,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Día 15 de septiembre",
+                        "Parametro": "Día 15 de septiembre",
+                        "Valor": 603167,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Día 16 de septiembre",
+                        "Parametro": "Día 16 de septiembre",
+                        "Valor": 614360,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Día 17 de septiembre",
+                        "Parametro": "Día 17 de septiembre",
+                        "Valor": 625651,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Día 18 de septiembre",
+                        "Parametro": "Día 18 de septiembre",
+                        "Valor": 640040,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Día 19 de septiembre",
+                        "Parametro": "Día 19 de septiembre",
+                        "Valor": 640040,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Día 20 de septiembre",
+                        "Parametro": "Día 20 de septiembre",
+                        "Valor": 640040,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Día 21 de septiembre",
+                        "Parametro": "Día 21 de septiembre",
+                        "Valor": 671468,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Día 22 de septiembre",
+                        "Parametro": "Día 22 de septiembre",
+                        "Valor": 682267,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Día 23 de septiembre",
+                        "Parametro": "Día 23 de septiembre",
+                        "Valor": 693556,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Día 24 de septiembre",
+                        "Parametro": "Día 24 de septiembre",
+                        "Valor": 704209,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Día 25 de septiembre",
+                        "Parametro": "Día 25 de septiembre",
+                        "Valor": 716481,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Día 26 de septiembre",
+                        "Parametro": "Día 26 de septiembre",
+                        "Valor": 716481,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Día 27 de septiembre",
+                        "Parametro": "Día 27 de septiembre",
+                        "Valor": 716481,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Día 28 de septiembre",
+                        "Parametro": "Día 28 de septiembre",
+                        "Valor": 748266,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Día 29 de septiembre",
+                        "Parametro": "Día 29 de septiembre",
+                        "Valor": 758172,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Día 30 de septiembre",
+                        "Parametro": "Día 30 de septiembre",
+                        "Valor": 769188,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Día 1 de octubre",
+                        "Parametro": "Día 1 de octubre",
+                        "Valor": 778607,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Día 2 de octubre",
+                        "Parametro": "Día 2 de octubre",
+                        "Valor": 789932,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Día 3 de octubre",
+                        "Parametro": "Día 3 de octubre",
+                        "Valor": 789932,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Día 4 de octubre",
+                        "Parametro": "Día 4 de octubre",
+                        "Valor": 789932,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Día 5 de octubre",
+                        "Parametro": "Día 5 de octubre",
+                        "Valor": 813412,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Día 6 de octubre",
+                        "Parametro": "Día 6 de octubre",
+                        "Valor": 825410,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Día 7 de octubre",
+                        "Parametro": "Día 7 de octubre",
+                        "Valor": 835901,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Día 8 de octubre",
+                        "Parametro": "Día 8 de octubre",
+                        "Valor": 848324,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Día 9 de octubre",
+                        "Parametro": "Día 9 de octubre",
+                        "Valor": 861112,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Día 10 de octubre",
+                        "Parametro": "Día 10 de octubre",
+                        "Valor": 861112,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Día 11 de octubre",
+                        "Parametro": "Día 11 de octubre",
+                        "Valor": 861112,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Día 12 de octubre",
+                        "Parametro": "Día 12 de octubre",
+                        "Valor": 888968,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Día 13 de octubre",
+                        "Parametro": "Día 13 de octubre",
+                        "Valor": 896086,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Día 14 de octubre",
+                        "Parametro": "Día 14 de octubre",
+                        "Valor": 908056,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Día 15 de octubre",
+                        "Parametro": "Día 15 de octubre",
+                        "Valor": 921374,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Día 16 de octubre",
+                        "Parametro": "Día 16 de octubre",
+                        "Valor": 936560,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Día 17 de octubre",
+                        "Parametro": "Día 17 de octubre",
+                        "Valor": 936560,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Día 18 de octubre",
+                        "Parametro": "Día 18 de octubre",
+                        "Valor": 936560,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Día 19 de octubre",
+                        "Parametro": "Día 19 de octubre",
+                        "Valor": 974449,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Día 20 de octubre",
+                        "Parametro": "Día 20 de octubre",
+                        "Valor": 988322,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Día 21 de octubre",
+                        "Parametro": "Día 21 de octubre",
+                        "Valor": 1005295,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Día 22 de octubre",
+                        "Parametro": "Día 22 de octubre",
+                        "Valor": 1026281,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Día 23 de octubre",
+                        "Parametro": "Día 23 de octubre",
+                        "Valor": 1046132,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Día 24 de octubre",
+                        "Parametro": "Día 24 de octubre",
+                        "Valor": 1046132,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Día 25 de octubre",
+                        "Parametro": "Día 25 de octubre",
+                        "Valor": 1046132,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Día 26 de octubre",
+                        "Parametro": "Día 26 de octubre",
+                        "Valor": 1098320,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Día 27 de octubre",
+                        "Parametro": "Día 27 de octubre",
+                        "Valor": 1116738,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Día 28 de octubre",
+                        "Parametro": "Día 28 de octubre",
+                        "Valor": 1136503,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Día 29 de octubre",
+                        "Parametro": "Día 29 de octubre",
+                        "Valor": 1160083,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Día 30 de octubre",
+                        "Parametro": "Día 30 de octubre",
+                        "Valor": 1185678,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Día 31 de octubre",
+                        "Parametro": "Día 31 de octubre",
+                        "Valor": 1185678,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Día 1 de noviembre",
+                        "Parametro": "Día 1 de noviembre",
+                        "Valor": 1185678,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Día 2 de noviembre",
+                        "Parametro": "Día 2 de noviembre",
+                        "Valor": 1240697,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Día 3 de noviembre",
+                        "Parametro": "Día 3 de noviembre",
+                        "Valor": 1259366,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Día 4 de noviembre",
+                        "Parametro": "Día 4 de noviembre",
+                        "Valor": 1284408,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Día 5 de noviembre",
+                        "Parametro": "Día 5 de noviembre",
+                        "Valor": 1306316,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Día 6 de noviembre",
+                        "Parametro": "Día 6 de noviembre",
+                        "Valor": 1328832,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Día 7 de noviembre",
+                        "Parametro": "Día 7 de noviembre",
+                        "Valor": 1328832,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Día 8 de noviembre",
+                        "Parametro": "Día 8 de noviembre",
+                        "Valor": 1328832,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Día 9 de noviembre",
+                        "Parametro": "Día 9 de noviembre",
+                        "Valor": 1381218,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Día 10 de noviembre",
+                        "Parametro": "Día 10 de noviembre",
+                        "Valor": 1398613,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Día 11 de noviembre",
+                        "Parametro": "Día 11 de noviembre",
+                        "Valor": 1417709,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Día 12 de noviembre",
+                        "Parametro": "Día 12 de noviembre",
+                        "Valor": 1437220,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Día 13 de noviembre",
+                        "Parametro": "Día 13 de noviembre",
+                        "Valor": 1458591,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Día 14 de noviembre",
+                        "Parametro": "Día 14 de noviembre",
+                        "Valor": 1458591,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Día 15 de noviembre",
+                        "Parametro": "Día 15 de noviembre",
+                        "Valor": 1458591,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Día 16 de noviembre",
+                        "Parametro": "Día 16 de noviembre",
+                        "Valor": 1496864,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Día 17 de noviembre",
+                        "Parametro": "Día 17 de noviembre",
+                        "Valor": 1510023,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Día 18 de noviembre",
+                        "Parametro": "Día 18 de noviembre",
+                        "Valor": 1525341,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Día 19 de noviembre",
+                        "Parametro": "Día 19 de noviembre",
+                        "Valor": 1541574,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Día 20 de noviembre",
+                        "Parametro": "Día 20 de noviembre",
+                        "Valor": 1556730,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Día 21 de noviembre",
+                        "Parametro": "Día 21 de noviembre",
+                        "Valor": 1556730,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Día 22 de noviembre",
+                        "Parametro": "Día 22 de noviembre",
+                        "Valor": 1556730,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Día 23 de noviembre",
+                        "Parametro": "Día 23 de noviembre",
+                        "Valor": 1582616,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Día 24 de noviembre",
+                        "Parametro": "Día 24 de noviembre",
+                        "Valor": 1594844,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Día 25 de noviembre",
+                        "Parametro": "Día 25 de noviembre",
+                        "Valor": 1605066,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Día 26 de noviembre",
+                        "Parametro": "Día 26 de noviembre",
+                        "Valor": 1617355,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Día 27 de noviembre",
+                        "Parametro": "Día 27 de noviembre",
+                        "Valor": 1628208,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Día 28 de noviembre",
+                        "Parametro": "Día 28 de noviembre",
+                        "Valor": 1628208,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Día 29 de noviembre",
+                        "Parametro": "Día 29 de noviembre",
+                        "Valor": 1628208,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Día 30 de noviembre",
+                        "Parametro": "Día 30 de noviembre",
+                        "Valor": 1648187,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Día 1 de diciembre",
+                        "Parametro": "Día 1 de diciembre",
+                        "Valor": 1656444,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Día 2 de diciembre",
+                        "Parametro": "Día 2 de diciembre",
+                        "Valor": 1665775,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Día 3 de diciembre",
+                        "Parametro": "Día 3 de diciembre",
+                        "Valor": 1675902,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Día 4 de diciembre",
+                        "Parametro": "Día 4 de diciembre",
+                        "Valor": 1684647,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Día 5 de diciembre",
+                        "Parametro": "Día 5 de diciembre",
+                        "Valor": 1684647,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Día 6 de diciembre",
+                        "Parametro": "Día 6 de diciembre",
+                        "Valor": 1684647,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Día 7 de diciembre",
+                        "Parametro": "Día 7 de diciembre",
+                        "Valor": 1702328,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Día 8 de diciembre",
+                        "Parametro": "Día 8 de diciembre",
+                        "Valor": 1702328,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Día 9 de diciembre",
+                        "Parametro": "Día 9 de diciembre",
+                        "Valor": 1712101,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Día 10 de diciembre",
+                        "Parametro": "Día 10 de diciembre",
+                        "Valor": 1720056,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Día 11 de diciembre",
+                        "Parametro": "Día 11 de diciembre",
+                        "Valor": 1730575,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Día 12 de diciembre",
+                        "Parametro": "Día 12 de diciembre",
+                        "Valor": 1730575,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Día 13 de diciembre",
+                        "Parametro": "Día 13 de diciembre",
+                        "Valor": 1730575,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Día 14 de diciembre",
+                        "Parametro": "Día 14 de diciembre",
+                        "Valor": 1751884,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Día 15 de diciembre",
+                        "Parametro": "Día 15 de diciembre",
+                        "Valor": 1762212,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Día 16 de diciembre",
+                        "Parametro": "Día 16 de diciembre",
+                        "Valor": 1773290,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Día 17 de diciembre",
+                        "Parametro": "Día 17 de diciembre",
+                        "Valor": 1785421,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Día 18 de diciembre",
+                        "Parametro": "Día 18 de diciembre",
+                        "Valor": 1797236,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Día 19 de diciembre",
+                        "Parametro": "Día 19 de diciembre",
+                        "Valor": 1797236,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Día 20 de diciembre",
+                        "Parametro": "Día 20 de diciembre",
+                        "Valor": 1797236,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Día 21 de diciembre",
+                        "Parametro": "Día 21 de diciembre",
+                        "Valor": 1819249,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Día 22 de diciembre",
+                        "Parametro": "Día 22 de diciembre",
+                        "Valor": 1829903,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Día 23 de diciembre",
+                        "Parametro": "Día 23 de diciembre",
+                        "Valor": 1842289,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Día 24 de diciembre",
+                        "Parametro": "Día 24 de diciembre",
+                        "Valor": 1854951,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Día 25 de diciembre",
+                        "Parametro": "Día 25 de diciembre",
+                        "Valor": 1854951,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Día 26 de diciembre",
+                        "Parametro": "Día 26 de diciembre",
+                        "Valor": 1854951,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Día 27 de diciembre",
+                        "Parametro": "Día 27 de diciembre",
+                        "Valor": 1854951,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Día 28 de diciembre",
+                        "Parametro": "Día 28 de diciembre",
+                        "Valor": 1879413,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Día 29 de diciembre",
+                        "Parametro": "Día 29 de diciembre",
+                        "Valor": 1893502,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Día 30 de diciembre",
+                        "Parametro": "Día 30 de diciembre",
+                        "Valor": 1910218,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Día 31 de diciembre",
+                        "Parametro": "Día 31 de diciembre",
+                        "Valor": 1928265,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Día 1 de enero",
+                        "Parametro": "2021",
+                        "Valor": 1928265,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Día 2 de enero",
+                        "Parametro": "Día 2 de enero",
+                        "Valor": 1928265,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Día 3 de enero",
+                        "Parametro": "Día 3 de enero",
+                        "Valor": 1928265,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Día 4 de enero",
+                        "Parametro": "Día 4 de enero",
+                        "Valor": 1958844,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Día 5 de enero",
+                        "Parametro": "Día 5 de enero",
+                        "Valor": 1982544,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Día 6 de enero",
+                        "Parametro": "Día 6 de enero",
+                        "Valor": 1982544,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Día 7 de enero",
+                        "Parametro": "Día 7 de enero",
+                        "Valor": 2024904,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Día 8 de enero",
+                        "Parametro": "Día 8 de enero",
+                        "Valor": 2050360,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Día 9 de enero",
+                        "Parametro": "Día 9 de enero",
+                        "Valor": 2050360,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Día 10 de enero",
+                        "Parametro": "Día 10 de enero",
+                        "Valor": 2050360,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Día 11 de enero",
+                        "Parametro": "Día 11 de enero",
+                        "Valor": 2111782,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Día 12 de enero",
+                        "Parametro": "Día 12 de enero",
+                        "Valor": 2137220,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Día 13 de enero",
+                        "Parametro": "Día 13 de enero",
+                        "Valor": 2176089,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Día 14 de enero",
+                        "Parametro": "Día 14 de enero",
+                        "Valor": 2211967,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Día 15 de enero",
+                        "Parametro": "Día 15 de enero",
+                        "Valor": 2252164,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Día 16 de enero",
+                        "Parametro": "Día 16 de enero",
+                        "Valor": 2252164,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Día 17 de enero",
+                        "Parametro": "Día 17 de enero",
+                        "Valor": 2252164,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Día 18 de enero",
+                        "Parametro": "Día 18 de enero",
+                        "Valor": 2336451,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Día 19 de enero",
+                        "Parametro": "Día 19 de enero",
+                        "Valor": 2370742,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Día 20 de enero",
+                        "Parametro": "Día 20 de enero",
+                        "Valor": 2412318,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Día 21 de enero",
+                        "Parametro": "Día 21 de enero",
+                        "Valor": 2456675,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Día 22 de enero",
+                        "Parametro": "Día 22 de enero",
+                        "Valor": 2499560,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Día 23 de enero",
+                        "Parametro": "Día 23 de enero",
+                        "Valor": 2499560,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Día 24 de enero",
+                        "Parametro": "Día 24 de enero",
+                        "Valor": 2499560,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Día 25 de enero",
+                        "Parametro": "Día 25 de enero",
+                        "Valor": 2593382,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Día 26 de enero",
+                        "Parametro": "Día 26 de enero",
+                        "Valor": 2629817,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Día 27 de enero",
+                        "Parametro": "Día 27 de enero",
+                        "Valor": 2670102,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Día 28 de enero",
+                        "Parametro": "Día 28 de enero",
+                        "Valor": 2705001,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Día 29 de enero",
+                        "Parametro": "Día 29 de enero",
+                        "Valor": 2743119,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Día 30 de enero",
+                        "Parametro": "Día 30 de enero",
+                        "Valor": 2743119,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Día 31 de enero",
+                        "Parametro": "Día 31 de enero",
+                        "Valor": 2743119,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Día 1 de febrero",
+                        "Parametro": "Día 1 de febrero",
+                        "Valor": 2822805,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Día 2 de febrero",
+                        "Parametro": "Día 2 de febrero",
+                        "Valor": 2851869,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Día 3 de febrero",
+                        "Parametro": "Día 3 de febrero",
+                        "Valor": 2883465,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Día 4 de febrero",
+                        "Parametro": "Día 4 de febrero",
+                        "Valor": 2913425,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Día 5 de febrero",
+                        "Parametro": "Día 5 de febrero",
+                        "Valor": 2941990,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Día 6 de febrero",
+                        "Parametro": "Día 6 de febrero",
+                        "Valor": 2941990,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Día 7 de febrero",
+                        "Parametro": "Día 7 de febrero",
+                        "Valor": 2941990,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Día 8 de febrero",
+                        "Parametro": "Día 8 de febrero",
+                        "Valor": 2989085,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Día 9 de febrero",
+                        "Parametro": "Día 9 de febrero",
+                        "Valor": 3005487,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Día 10 de febrero",
+                        "Parametro": "Día 10 de febrero",
+                        "Valor": 3023601,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Día 11 de febrero",
+                        "Parametro": "Día 11 de febrero",
+                        "Valor": 3041454,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Día 12 de febrero",
+                        "Parametro": "Día 12 de febrero",
+                        "Valor": 3056035,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Día 13 de febrero",
+                        "Parametro": "Día 13 de febrero",
+                        "Valor": 3056035,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Día 14 de febrero",
+                        "Parametro": "Día 14 de febrero",
+                        "Valor": 3056035,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Día 15 de febrero",
+                        "Parametro": "Día 15 de febrero",
+                        "Valor": 3086286,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Día 16 de febrero",
+                        "Parametro": "Día 16 de febrero",
+                        "Valor": 3096343,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Día 17 de febrero",
+                        "Parametro": "Día 17 de febrero",
+                        "Valor": 3107172,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Día 18 de febrero",
+                        "Parametro": "Día 18 de febrero",
+                        "Valor": 3121687,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Día 19 de febrero",
+                        "Parametro": "Día 19 de febrero",
+                        "Valor": 3133122,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Día 20 de febrero",
+                        "Parametro": "Día 20 de febrero",
+                        "Valor": 3133122,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Día 21 de febrero",
+                        "Parametro": "Día 21 de febrero",
+                        "Valor": 3133122,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Día 22 de febrero",
+                        "Parametro": "Día 22 de febrero",
+                        "Valor": 3153971,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Día 23 de febrero",
+                        "Parametro": "Día 23 de febrero",
+                        "Valor": 3161432,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Día 24 de febrero",
+                        "Parametro": "Día 24 de febrero",
+                        "Valor": 3170644,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Día 25 de febrero",
+                        "Parametro": "Día 25 de febrero",
+                        "Valor": 3180212,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Día 26 de febrero",
+                        "Parametro": "Día 26 de febrero",
+                        "Valor": 3188553,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Día 27 de febrero",
+                        "Parametro": "Día 27 de febrero",
+                        "Valor": 3188553,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Día 28 de febrero",
+                        "Parametro": "Día 28 de febrero",
+                        "Valor": 3188553,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Día 1 de marzo",
+                        "Parametro": "Día 1 de marzo",
+                        "Valor": 3204531,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Día 2 de marzo",
+                        "Parametro": "Día 2 de marzo",
+                        "Valor": 3130184,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Día 3 de marzo",
+                        "Parametro": "Día 3 de marzo",
+                        "Valor": 3136321,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Día 4 de marzo",
+                        "Parametro": "Día 4 de marzo",
+                        "Valor": 3142358,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Día 5 de marzo",
+                        "Parametro": "Día 5 de marzo",
+                        "Valor": 3149012,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Día 6 de marzo",
+                        "Parametro": "Día 6 de marzo",
+                        "Valor": 3149012,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Día 7 de marzo",
+                        "Parametro": "Día 7 de marzo",
+                        "Valor": 3149012,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Día 8 de marzo",
+                        "Parametro": "Día 8 de marzo",
+                        "Valor": 3160970,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Día 9 de marzo",
+                        "Parametro": "Día 9 de marzo",
+                        "Valor": 3164983,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Día 10 de marzo",
+                        "Parametro": "Día 10 de marzo",
+                        "Valor": 3172101,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Día 11 de marzo",
+                        "Parametro": "Día 11 de marzo",
+                        "Valor": 3178356,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Día 12 de marzo",
+                        "Parametro": "Día 12 de marzo",
+                        "Valor": 3183704,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Día 13 de marzo",
+                        "Parametro": "Día 13 de marzo",
+                        "Valor": 3183704,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Día 14 de marzo",
+                        "Parametro": "Día 14 de marzo",
+                        "Valor": 3183704,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Día 15 de marzo",
+                        "Parametro": "Día 15 de marzo",
+                        "Valor": 3195062,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Día 16 de marzo",
+                        "Parametro": "Día 16 de marzo",
+                        "Valor": 3200024,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Día 17 de marzo",
+                        "Parametro": "Día 17 de marzo",
+                        "Valor": 3206116,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Día 18 de marzo",
+                        "Parametro": "Día 18 de marzo",
+                        "Valor": 3212332,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Día 19 de marzo",
+                        "Parametro": "Día 19 de marzo",
+                        "Valor": 3212332,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Día 20 de marzo",
+                        "Parametro": "Día 20 de marzo",
+                        "Valor": 3212332,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Día 21 de marzo",
+                        "Parametro": "Día 21 de marzo",
+                        "Valor": 3212332,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Día 22 de marzo",
+                        "Parametro": "Día 22 de marzo",
+                        "Valor": 3228803,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Día 23 de marzo",
+                        "Parametro": "Día 23 de marzo",
+                        "Valor": 3234319,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Día 24 de marzo",
+                        "Parametro": "Día 24 de marzo",
+                        "Valor": 3241345,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Día 25 de marzo",
+                        "Parametro": "Día 25 de marzo",
+                        "Valor": 3247738,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Día 26 de marzo",
+                        "Parametro": "Día 26 de marzo",
+                        "Valor": 3255324,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Día 27 de marzo",
+                        "Parametro": "Día 27 de marzo",
+                        "Valor": 3255324,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Día 28 de marzo",
+                        "Parametro": "Día 28 de marzo",
+                        "Valor": 3255324,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Día 29 de marzo",
+                        "Parametro": "Día 29 de marzo",
+                        "Valor": 3270825,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Día 30 de marzo",
+                        "Parametro": "Día 30 de marzo",
+                        "Valor": 3275819,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Día 31 de marzo",
+                        "Parametro": "Día 31 de marzo",
+                        "Valor": 3284353,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Día 1 de abril",
+                        "Parametro": "Día 1 de abril",
+                        "Valor": 3291394,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Día 2 de abril",
+                        "Parametro": "Día 2 de abril",
+                        "Valor": 3291394,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Día 3 de abril",
+                        "Parametro": "Día 3 de abril",
+                        "Valor": 3300965,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Día 4 de abril",
+                        "Parametro": "Día 4 de abril",
+                        "Valor": 3300965,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Día 5 de abril",
+                        "Parametro": "Día 5 de abril",
+                        "Valor": 3311325,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Día 6 de abril",
+                        "Parametro": "Día 6 de abril",
+                        "Valor": 3317948,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Día 7 de abril",
+                        "Parametro": "Día 7 de abril",
+                        "Valor": 3326736,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Día 8 de abril",
+                        "Parametro": "Día 8 de abril",
+                        "Valor": 3336637,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Día 9 de abril",
+                        "Parametro": "Día 9 de abril",
+                        "Valor": 3347512,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Día 10 de abril",
+                        "Parametro": "Día 10 de abril",
+                        "Valor": 3347512,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Día 11 de abril",
+                        "Parametro": "Día 11 de abril",
+                        "Valor": 3347512,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Día 12 de abril",
+                        "Parametro": "Día 12 de abril",
+                        "Valor": 3370256,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Día 13 de abril",
+                        "Parametro": "Día 13 de abril",
+                        "Valor": 3376548,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Día 14 de abril",
+                        "Parametro": "Día 14 de abril",
+                        "Valor": 3387022,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Día 15 de abril",
+                        "Parametro": "Día 15 de abril",
+                        "Valor": 3396685,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Día 16 de abril",
+                        "Parametro": "Día 16 de abril",
+                        "Valor": 3407283,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Día 17 de abril",
+                        "Parametro": "Día 17 de abril",
+                        "Valor": 3407283,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Día 18 de abril",
+                        "Parametro": "Día 18 de abril",
+                        "Valor": 3407283,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Día 19 de abril",
+                        "Parametro": "Día 19 de abril",
+                        "Valor": 3428354,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Día 20 de abril",
+                        "Parametro": "Día 20 de abril",
+                        "Valor": 3435840,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Día 21 de abril",
+                        "Parametro": "Día 21 de abril",
+                        "Valor": 3446072,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Día 22 de abril",
+                        "Parametro": "Día 22 de abril",
+                        "Valor": 3456886,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Día 23 de abril",
+                        "Parametro": "Día 23 de abril",
+                        "Valor": 3468617,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Día 24 de abril",
+                        "Parametro": "Día 24 de abril",
+                        "Valor": 3468617,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Día 25 de abril",
+                        "Parametro": "Día 25 de abril",
+                        "Valor": 3468617,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Día 26 de abril",
+                        "Parametro": "Día 26 de abril",
+                        "Valor": 3488469,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Día 27 de abril",
+                        "Parametro": "Día 27 de abril",
+                        "Valor": 3496134,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Día 28 de abril",
+                        "Parametro": "Día 28 de abril",
+                        "Valor": 3504799,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Día 29 de abril",
+                        "Parametro": "Día 29 de abril",
+                        "Valor": 3514942,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Día 30 de abril",
+                        "Parametro": "Día 30 de abril",
+                        "Valor": 3524077,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Día 1 de mayo",
+                        "Parametro": "Día 1 de mayo",
+                        "Valor": 3524077,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Día 2 de mayo",
+                        "Parametro": "Día 2 de mayo",
+                        "Valor": 3524077,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Día 3 de mayo",
+                        "Parametro": "Día 3 de mayo",
+                        "Valor": 3540430,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Día 4 de mayo",
+                        "Parametro": "Día 4 de mayo",
+                        "Valor": 3544945,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Día 5 de mayo",
+                        "Parametro": "Día 5 de mayo",
+                        "Valor": 3551262,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Día 6 de mayo",
+                        "Parametro": "Día 6 de mayo",
+                        "Valor": 3559222,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Día 7 de mayo",
+                        "Parametro": "Día 7 de mayo",
+                        "Valor": 3567408,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Día 8 de mayo",
+                        "Parametro": "Día 8 de mayo",
+                        "Valor": 3567408,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Día 9 de mayo",
+                        "Parametro": "Día 9 de mayo",
+                        "Valor": 3567408,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Día 10 de mayo",
+                        "Parametro": "Día 10 de mayo",
+                        "Valor": 3581392,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Día 11 de mayo",
+                        "Parametro": "Día 11 de mayo",
+                        "Valor": 3586333,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Día 12 de mayo",
+                        "Parametro": "Día 12 de mayo",
+                        "Valor": 3592751,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Día 13 de mayo",
+                        "Parametro": "Día 13 de mayo",
+                        "Valor": 3598452,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Día 14 de mayo",
+                        "Parametro": "Día 14 de mayo",
+                        "Valor": 3604799,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Día 15 de mayo",
+                        "Parametro": "Día 15 de mayo",
+                        "Valor": 3604799,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Día 16 de mayo",
+                        "Parametro": "Día 16 de mayo",
+                        "Valor": 3604799,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Día 17 de mayo",
+                        "Parametro": "Día 17 de mayo",
+                        "Valor": 3615860,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    }
+                ]
+            }
+        ]
+    }
+}

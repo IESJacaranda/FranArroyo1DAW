@@ -15,9 +15,9 @@ public class Curso {
 	
 	public Curso() {}
 	
-	public void addMateria(Materia ma) {
-		if(!this.materias.contains(ma)) {
-			this.materias.add(ma);
+	public void addMateria(Materia m) {
+		if(!this.materias.contains(m)) {
+			this.materias.add(m);
 		}
 	}
 

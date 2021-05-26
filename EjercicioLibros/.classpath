@@ -1,9 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
-	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="src" path="archivos"/>
-	<classpathentry kind="lib" path="/home/fran/Descargas/gson-2.2.2.jar.zip"/>
-	<classpathentry kind="lib" path="/home/fran/Escritorio/gson-2.2.2.jar"/>
+	<classpathentry kind="src" path="lib"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/home/estudiante/Desktop/gson-2.2.2.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
